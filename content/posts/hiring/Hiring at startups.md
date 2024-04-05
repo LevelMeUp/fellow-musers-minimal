@@ -26,7 +26,7 @@ Smart and Street define an A player as “a candidate who has at least a 90 perc
 
 My version of the interview process to find A-Players looks a bit like this
 
-![[Pasted image 20240403092807.png]]
+[Hiring](./hiring-1.png)
 Roughly
 1. Define the JD and competencies with surgical precision.
 2. Find the candidates, work out your unfair advantage to fill top of the funnel
