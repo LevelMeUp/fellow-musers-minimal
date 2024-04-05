@@ -65,13 +65,13 @@ Useful links
 
 1. Referrals from Your Professional and Personal Networks. Create a list of the ten most talented people you know and commit to speaking with at least one of them per week for the next ten weeks. At the end of each conversation, ask, “Who are the most talented people you know?” Continue to build your list and continue to talk with at least one person per week. 
 
-2. Referrals from Your Employees. Add sourcing as an outcome on every scorecard for your team. For example, “Source five A Players per year who pass our phone screen.” Encourage your employees to ask people in their networks, “Who are the most talented people you know whom we should hire?” Offer a referral bonus. 
+2. Referrals from Your Employees. Add sourcing as an outcome on every scorecard for your team. For example, “Source five A Players per year who pass our phone screen.” Encourage your employees to ask people in their networks, “Who are the most talented people you know whom we should hire?” Offer a referral bonus. Can also go further and do it for second order contacts, or even add it to the JD. Needs to be punchy enough - I've used £100 for passing phone screen, and £1,000 if they make it through probation. Be careful about unintended consequences here - ie pressurising hiring managers.
 
-3. Deputizing Friends of the Firm. Consider offering a referral bounty to select friends of the firm. It could be as inexpensive as a gift certificate or as expensive as a significant cash bonus. 
+3. Hiring Recruiters. Use the method described in this book to identity and hire A Player recruiters. Build a scorecard for your recruiting needs, and hold the recruiters you hire accountable for the items on that scorecard. Invest time to ensure the recruiters understand your business and culture.
 
-4. Hiring Recruiters. Use the method described in this book to identity and hire A Player recruiters. Build a scorecard for your recruiting needs, and hold the recruiters you hire accountable for the items on that scorecard. Invest time to ensure the recruiters understand your business and culture.
+4. Networks - try to get people posting in communities e.g. Operations Nation, Brand Hackers
 
-6. Networks - try to get people posting in communities e.g. Operations Nation, Brand Hackers
+5. Cold outreach - just get yourself out there. Linkedin messaging. Make sure you've shared the post on Linkedin, get people to repost it and also get the brand to repost it.
 
 **Linked in Recruiter**
 Pay for Linkedin Recruiter. Ideally give hiring managers access, as much better coming from them than talent team. Have a quick session on how to use it effectively, leverage account managers. Look at competitors, and think about typical archetypes for where success has come from.
