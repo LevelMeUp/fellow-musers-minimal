@@ -1,3 +1,13 @@
+---
+title: A delightfully unstructured guide to hiring
+date: 2019-11-07
+description: A winding thought dump on hiring at startups. More of a repository than anything.
+defer: false
+tags:
+  - Hiring
+  - Scaleups
+canonicalUrl: https://xx
+---
 
 Hiring at scale ups is a unique beast. You never have enough money to offer people. You never know truly if you should be hiring. The advice is conflicting - don't hire too early! Hire people who have done it before! Hire generalists! Hire specialists! Don't go for big companies!
 
