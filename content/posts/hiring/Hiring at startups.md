@@ -90,6 +90,8 @@ I've found that actually keeping a top of funnel healthy for key positions can r
 **Employee Branding**
 This warrants an entire other post, as Getir did not do this well. The approach also differs massively between different types of roles. E.g. engineers love a good technical blog, or presence at events. Glassdoor can be important. Employee engagement is key here. It's a huge topic, and very hard to fix if it's broken. You can still hire well if this is fucked, but by god it's hard & you'll have to often over-pay.
 
+Remember the classic Steve Jobs quote "A players hire A players, but B players hire C players and C players hire D players. It doesn’t take long to get to Z players. The trickle-down effect causes bozo explosions in companies." Quality compounds.
+
 On a more pragmatic note, make sure your Linkedin page is updated and there are regular posts. Think about events, conferences, videos. Be VISIBLE
 
 One way of thinking about this is - what is our unfair advantage that allows us to get better talent for less money? There are two:
@@ -408,6 +410,8 @@ https://review.firstround.com/why-nows-the-perfect-time-to-retool-your-hiring-pr
 https://review.firstround.com/the-best-interview-questions-weve-ever-published/
 
 https://www.lennysnewsletter.com/p/hiring-your-early-team-b2b
+
+https://themanagershandbook.com/hiring-and-onboarding/hiring-101
 
 Generally expect 25% of interview stage - so 4 people per hire?
 - Use as a calibration
