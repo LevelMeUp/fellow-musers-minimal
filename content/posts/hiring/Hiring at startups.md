@@ -28,7 +28,7 @@ My version of the interview process to find A-Players looks a bit like this
 
 ![Hiring](./hiring-1.png)
 Roughly
-1. Define the JD and competencies with surgical precision.
+1. Define the JD and competencies with surgical precision, sell the need internally
 2. Find the candidates, work out your unfair advantage to fill top of the funnel
 3. Run 4 interviews + references to select. One extra technical interview with best-in-class, use a contractor if needed
 4. Close the buggers
@@ -36,9 +36,20 @@ Roughly
 
 If it's a technical role you haven't hired before, then find someone you trust to do a final stage.
 
+Clearbit say:
+
+One hire should require approximately 20 - 50 phone screens and approximately 50 hours of investment from Clearbit. This does not include sourcing candidates! For each stage of the screening process, excluding sourcing:
+
+35 candidates * 0.5 hours = 18 hours
+5.5 candidates * 2 hours = 11 hours
+2.5 candidates * 3 hours = 8 hours
+2 candidates * 4 hours = 8 hours
+1.5 candidates * 5 hours = 7.5 hours
+
+
 I'm going to go through each stage, based on entirely how I do this. Remember, finding and persuading people to join your dream is as important as anything you’ll do- if you can’t persuade people you’ll pay it’s gonna be a long road persuading people to pay you…
 
-## Writing the JD
+## Writing the JD and internal proposal
 
 Don't rush this y'all. If this is a two page monstrosity copied off monster.com you will get shit applicants. Do you know exactly what the role is? Don't worry if there's uncertainty - you at least need to be clear about the uncertainty if that's the case. It's rare you won't know what they need to do in the first six months - focus on that.
 
@@ -71,7 +82,9 @@ Useful links
 
 4. Networks - try to get people posting in communities e.g. Operations Nation, Brand Hackers
 
-5. Cold outreach - just get yourself out there. Linkedin messaging. Make sure you've shared the post on Linkedin, get people to repost it and also get the brand to repost it.
+5. Cold outreach - just get yourself out there. Linkedin messaging. Make sure you've shared the post on Linkedin, get people to repost it and also get the brand to repost it. Leverage senior people too - a message from the GM or CEO will probaby get a response...
+
+There's a great [Presentation](https://drive.google.com/file/d/13QyEIy3iidWxRNIFUd94W7cqz-8E0BTS/view) by Aline Lerner that I'll summarise in a separate post - but cold outreach is hard, but important.
 
 **Linked in Recruiter**
 Pay for Linkedin Recruiter. Ideally give hiring managers access, as much better coming from them than talent team. Have a quick session on how to use it effectively, leverage account managers. Look at competitors, and think about typical archetypes for where success has come from.
@@ -86,6 +99,8 @@ Keep it short. The longer it is, the more desperate you can look, and the more p
 
 **Other tips and tricks**
 I've found that actually keeping a top of funnel healthy for key positions can reap dividends. Finding essays to send, keeping Linkedin messages or doing coffees regularly can make it easier down the road when you need to grow fast. This does get hard though at scale :) 
+
+You can also be quite cheeky when you're a startup and heavily flatter people. Asking slightly more senior people for feedback on the JD and the org can either unlock them as a candidate, or they may start recommending people they know. Either way is a win!
 
 **Employee Branding**
 This warrants an entire other post, as Getir did not do this well. The approach also differs massively between different types of roles. E.g. engineers love a good technical blog, or presence at events. Glassdoor can be important. Employee engagement is key here. It's a huge topic, and very hard to fix if it's broken. You can still hire well if this is fucked, but by god it's hard & you'll have to often over-pay.
@@ -302,8 +317,18 @@ Or Lenny's version https://www.lennysnewsletter.com/p/hiring-your-early-team-b2b
 4. **Grow your network**—It’ll be an easier sell if they know you (or know someone who knows you).
 5. **Love bomb—**Go the extra mile when trying to close a candidate:
 
+Clearbit version
+The five 'fs'#
+- Fit (talents and strengths match to opportunity and role)
+- Family support for joining company
+- Freedom to make decisions
+- Fortune and glory
+- Fun
+
+
 - Keep notes for potential A players about what might interest them and how to frame the offer
 - Think about the whole process from offer to to 100th day as a funnel. It’s your job to minimise drop off by prepping and going fasssst once you’ve made the decision
+- If senior hires, set up a chat with an investor, or a recent leaver
 
 - Go fast with an offer, and follow up on offers to get to signature. A delay is often what it seems
 - Try and push for quick start - ride the momentum. If not, check in every couple of weeks, send essays, books etc
