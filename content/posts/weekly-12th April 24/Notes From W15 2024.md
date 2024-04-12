@@ -1,3 +1,15 @@
+---
+title: Weekly Notes 12th April 2024
+date: 2024-04-12
+description: Regular notes on consumption & interesting books
+defer: false
+tags:
+  - Weekly
+  - Consumption
+canonicalUrl: https://xx
+---
+
+
 Media Consumption
 - Continued Reading Outsiders, by Howard Becker. Great book, more to follow
 - Read the review for [The Historian](https://www.amazon.co.uk/Historian-Elizabeth-Kostova/dp/0751537284) and decided it wasn't for me
